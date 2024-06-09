@@ -1,3 +1,3 @@
-💎 _any sufficiently advanced technology is indistinguishable from magic_ 💎
-
-![untra-animated.gif](untra-animated.gif)
+<p align="center">
+<img src="./untra-animated.gif" width="display-max" style="vertical-align:middle;" />
+</p>
